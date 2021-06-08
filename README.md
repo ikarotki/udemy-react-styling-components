@@ -1,0 +1,2 @@
+# I've created this repo to tracking my progress during passing React course on Udemy
+# If you want to learn React I strongly recommend these courses https://www.udemy.com/course/react-the-complete-guide-incl-redux/
